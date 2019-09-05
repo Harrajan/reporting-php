@@ -80,7 +80,7 @@
 
                 <div class="links">
                     <a href="{{ url('/recruit') }}">Recruitment</a>
-                    <a href="{{ url('/response') }}">Responses</a>
+                    <a href="">Responses</a>
                     <a href="{{ url('/unsubscription') }}">Unscriptions</a>
 
                 </div>
